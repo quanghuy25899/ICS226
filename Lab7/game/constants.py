@@ -1,0 +1,2 @@
+MAX_ROWS = 10
+MAX_COLS = 10
